@@ -1,0 +1,92 @@
+.wrapper{
+display: grid;
+grid-template-columns: 20% 40% 40%;
+
+}
+.extra {
+    
+    align-items: center;
+    
+    width: 500px;
+    height: 700px;
+    margin-right:100px;
+    text-align: center;
+   margin-top: 30px;
+    border-radius: 10px;
+    padding-bottom: 32px;
+    
+  }
+  .extra2 {
+    align-items: center;
+    width: 520px;
+       height: 660px;
+    background: #1B1B1B;
+    margin-left: 100px;
+    text-align: center;
+    margin-top:62px;
+    border-radius: 10px;
+    padding-bottom: 32px;
+  }  
+  .extra3{
+ 
+    
+    
+    padding: 50px;
+    align-items: center;
+    margin-top:62px;
+    width: 350px;
+    margin-left:30px;
+    
+    height: 200px;
+    background: #1B1B1B;
+    text-align: center;
+
+    border-radius: 10px;
+    
+  }  
+  .extra4{
+    align-items: center;
+    
+    width: 550px;
+    margin-top: 400px;
+    height: 425px;
+    margin:30px;
+    background: #1B1B1B;
+    text-align: center;
+   margin-top: 0px;
+    margin-right:60px;
+    border-radius: 10px;
+    padding-top: 8px;
+  }
+  .extra5{
+    align-items: center;
+     width: 550px;
+    padding-top: 10px;
+    height: 200px;
+    margin: 30px;
+    background-color: #1B1B1B;
+    text-align: center;
+   margin-top: 30px;
+    border-radius: 10px;
+    padding-bottom: 32px;
+    margin-right:60px;
+  }
+  .extra6{
+    align-items: baseline;
+    margin-top:30px;
+    width: 350px;
+    margin-left:30px;
+    
+    height: 430px;
+    background: #1B1B1B;
+    text-align: center;
+    padding: 10px;
+    
+    border-radius: 10px;
+   
+  }
+  
+  .logo{
+      margin:5px;
+      color: whitesmoke;
+  }
