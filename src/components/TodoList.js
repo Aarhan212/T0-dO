@@ -55,11 +55,11 @@ function TodoList() {
     </div>
     <div className="extra6">
       <h1>Quick links</h1>
-    <a href=" " className="logo"><SiReddit size="40px"/></a>
-    <a href="" className="logo"><FaNapster size="40px"/></a>
-    <a href="" className="logo"><ImBooks size="40px"/></a>
-    <a href="" className="logo"><SiGooglehangoutsmeet size="40px" /></a>
-    <a href=" " className="logo"><FiMail size="40px"/></a>
+    <a href="https://www.reddit.com/" className="logo"><SiReddit size="40px"/></a>
+    <a href="https://app.napster.com/" className="logo"><FaNapster size="40px"/></a>
+    <a href="https://classroom.google.com/u/1/h" className="logo"><ImBooks size="40px"/></a>
+    <a href="https://app.cybrary.it/" className="logo"><SiGooglehangoutsmeet size="40px" /></a>
+    <a href="https://mail.google.com/mail/u/1/#inbox" className="logo"><FiMail size="40px"/></a>
     </div>
     </div>
     <div className="extra2">  
